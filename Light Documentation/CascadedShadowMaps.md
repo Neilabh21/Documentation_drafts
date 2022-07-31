@@ -149,3 +149,5 @@ The results were pretty satisfactory. While near, the maps look as good as the 4
 While far maps transition look a bit worse, nevertheless it's much better than using just three shadow maps. They don't even look that bad!
 
 
+Code credit: https://learnopengl.com/Guest-Articles/2021/CSM
+
